@@ -636,6 +636,11 @@ should always be in sync with it -->
                <samplerate>48000</samplerate>
                <bit_width>16</bit_width>
            </usecase>
+           <usecase>
+               <name>PAL_STREAM_COMPRESSED</name>
+               <samplerate>48000</samplerate>
+               <bit_width>16</bit_width>
+           </usecase>
         </out-device>
         <out-device>
             <id>PAL_DEVICE_OUT_WIRED_HEADPHONE</id>
@@ -685,6 +690,11 @@ should always be in sync with it -->
            <usecase>
                <name>PAL_STREAM_VOIP_RX</name>
                <priority>2</priority>
+               <samplerate>48000</samplerate>
+               <bit_width>16</bit_width>
+           </usecase>
+           <usecase>
+               <name>PAL_STREAM_COMPRESSED</name>
                <samplerate>48000</samplerate>
                <bit_width>16</bit_width>
            </usecase>
