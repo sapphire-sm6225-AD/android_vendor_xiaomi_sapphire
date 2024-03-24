@@ -473,7 +473,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/sensors/config/sns_tilt_to_wake.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_tilt_to_wake.json \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/sensors/config/sns_wrist_pedo.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_wrist_pedo.json \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/sensors/config/sx932x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sx932x_0.json \
-    vendor/xiaomi/sapphire/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/st21nfc_conf.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf.txt \
     vendor/xiaomi/sapphire/proprietary/vendor/etc/thermal-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-camera.conf \
